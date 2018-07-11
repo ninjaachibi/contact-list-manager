@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: lightcoral;
+}
+
+.field {
+  /* display: block; */
+  width: 80%;
+  /* margin: auto; */
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.contact-form {
+  /* display: flex; */
+  /* text-align: center; */
+}
+
+.contact {
+  margin: 10px 10px;
+  border: thin solid black;
+  background-color: snow;
+  border-radius: 5px;
+}
+
+.btn {
+  width: 45%;
+  margin: 5px 5px;
+}
+
+.btn:last-child {
+  float: right;
+}
